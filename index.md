@@ -12,9 +12,6 @@ Hello, I am a professor of environmental science in the [Center for Earth and En
 #### Educational Background
 ***
 *    Ph.D. Ecology- The Pennylvania State University 2005
-*    
-<embed type="text/html" src="PSU.html" width="600" height="600">
-
 *    BS Biology- Villanova University 1998
 ***
 #### Experience
@@ -35,6 +32,9 @@ I received my B.S. in Biology at Villanova in 1998, worked for 2 years at the Da
 I have taught varied courses in Ecology, Conservation, and Environmental Science in primarily undergraduate institutions and am an active board member within the Ecological Research As Education Network (EREN).
 
 Most importantly, I am a **"baseball"** mom and dog lover.
+
+## ###Penn State Map##
+<embed type="text/html" src="PSU.html" width="600" height="600">
 
  
 
