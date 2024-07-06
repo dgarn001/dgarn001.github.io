@@ -12,6 +12,9 @@ Hello, I am a professor of environmental science in the [Center for Earth and En
 #### Educational Background
 ***
 *    Ph.D. Ecology- The Pennylvania State University 2005
+*    
+<embed type="text/html" src="PSU.html" width="600" height="600">
+
 *    BS Biology- Villanova University 1998
 ***
 #### Experience
