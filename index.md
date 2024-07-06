@@ -5,8 +5,8 @@ Hello, I am a professor of environmental science in the [Center for Earth and En
 
 #### Contact Information
 * email: <dgarn001@plattsburgh.edu>
-* personal [webpage](https://www.plattsburgh.edu/academics/schools/arts-sciences/cees/faculty/garneau-danielle.html#:~:text=https%3A//daniellegarnea4.wixsite.com/daniellegarneau "Danielle Garneau personal webpage")
-* GitHUB
+* [webpage](https://www.plattsburgh.edu/academics/schools/arts-sciences/cees/faculty/garneau-danielle.html#:~:text=https%3A//daniellegarnea4.wixsite.com/daniellegarneau "Danielle Garneau personal webpage")
+* [GitHUB](https://github.com/dgarn001/dgarn001.github.io)
   
 #### Educational Background
 
