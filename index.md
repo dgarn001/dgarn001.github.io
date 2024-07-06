@@ -33,7 +33,7 @@ I have taught varied courses in Ecology, Conservation, and Environmental Science
 
 Most importantly, I am a **"baseball"** mom and dog lover.
 
-## ###Penn State Map##
+Penn State Map
 <embed type="text/html" src="PSU.html" width="600" height="600">
 
  
